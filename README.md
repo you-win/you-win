@@ -37,3 +37,6 @@ I also head the followng projects:
 <a href="https://ko-fi.com/you_win">
   <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="ko-fi" title="so coffee, much hipster"/>
 </a>
+<a href="https://liberapay.com/you-win/">
+  <img src="https://img.shields.io/badge/Liberapay-F6C915?style=for-the-badge&logo=liberapay&logoColor=black"/>
+<a/>
