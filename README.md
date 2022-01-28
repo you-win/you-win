@@ -32,8 +32,8 @@ I also head the followng projects:
 
 ### Toss me some change
 <a href="https://www.patreon.com/you_win">
-  <img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" height="33" width="130" alt="patreon" title="totes not begging"/>
+  <img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" alt="patreon" title="totes not begging"/>
 </a>
 <a href="https://ko-fi.com/you_win">
-  <img height="33"src="https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0" alt="ko-fi" title="so coffee, much hipster"/>
+  <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="ko-fi" title="so coffee, much hipster"/>
 </a>
