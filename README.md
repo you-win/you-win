@@ -26,7 +26,7 @@ I also head the followng projects:
 <a href="https://www.youtube.com/">
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="youtube" title="i hope you like vods"/>
 <a/>
-<a href="https://www.linkedin.com/feed/">
+<a href="https://www.linkedin.com/in/timothy-yuen/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" title="lmao why click this"/>
 </a>
 
