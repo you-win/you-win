@@ -8,7 +8,7 @@ I also head the followng projects:
 | [VSS-Project](https://github.com/vss-project) | Open source software for virtual streamers |
 | [friendly-potato](https://github.com/friendly-potato) | Various utilities that make game dev easier |
 
-### Discord for collaboration/support/chat
+### Discord for collaboration/chat
 <a href="https://discord.gg/GhUUxmCdtQ">
   <img src="https://discordapp.com/api/guilds/853476898071117865/widget.png?style=banner2" alt="discord" title="you kids nowadays and your discords"/>
 <a/>
