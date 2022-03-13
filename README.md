@@ -5,7 +5,7 @@ I write open-source software/games! Check out the pinned repositories on my prof
 I also head the followng projects:
 | Project | Description |
 | - | - |
-| [VSS-Project](https://github.com/vss-project) | Open source software for virtual streamers |
+| [virtual-puppet-project](https://github.com/virtual-puppet-project) | Open source software for virtual streamers |
 | [friendly-potato](https://github.com/friendly-potato) | Various utilities that make game dev easier |
 
 ### Discord for collaboration/chat
