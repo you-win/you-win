@@ -23,7 +23,7 @@ I also head the followng projects:
 <a href="https://twitter.com/team_youwin">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" title="i dont really tweet tho"/>
 </a>
-<a href="https://www.youtube.com/">
+<a href="https://www.youtube.com/channel/UCwedtfgXrzhsY7CihXY9tKA">
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="youtube" title="i hope you like vods"/>
 <a/>
 <a href="https://www.linkedin.com/in/timothy-yuen/">
