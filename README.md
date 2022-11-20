@@ -43,3 +43,12 @@ I also head the followng projects:
 <a href="https://liberapay.com/you-win/">
   <img src="https://img.shields.io/badge/Liberapay-F6C915?style=for-the-badge&logo=liberapay&logoColor=black"/>
 <a/>
+  
+---
+
+<details>
+  <summary>Verification</summary>
+
+`<a rel="me" href="https://mastodon.gamedev.place/@youwin">Mastodon</a>`
+
+</details>
