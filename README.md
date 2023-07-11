@@ -6,7 +6,8 @@ I also head the followng projects:
 | Project | Description |
 | - | - |
 | [virtual-puppet-project](https://github.com/virtual-puppet-project) | Open source software for virtual streamers |
-| [friendly-potato](https://github.com/friendly-potato) | Various utilities that make game dev easier |
+| [sometimes-youwin](https://github.com/sometimes-youwin) | Various (game?) dev utilities |
+| [totlang](https://github.com/totlang) | Simple configs for a complicated world |
 
 ### Discord for collaboration/chat
 <a href="https://discord.gg/GhUUxmCdtQ">
