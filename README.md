@@ -9,11 +9,6 @@ I also head the followng projects:
 | [sometimes-youwin](https://github.com/sometimes-youwin) | Various (game?) dev utilities |
 | [totlang](https://github.com/totlang) | Simple configs for a complicated world |
 
-### Discord for collaboration/chat
-<a href="https://discord.gg/GhUUxmCdtQ">
-  <img src="https://discordapp.com/api/guilds/853476898071117865/widget.png?style=banner2" alt="discord" title="you kids nowadays and your discords"/>
-<a/>
-
 ### Socials
 <a href="https://twitch.tv/team_youwin">
   <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="twitch" title="definitely a pro streamer"/>
